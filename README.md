@@ -1,2 +1,2 @@
 # ADXL345
-This is the ADXL362 sensor driver package, support: Triaxial acceleration.
+This is the ADXL345 sensor driver package, support: Triaxial acceleration.
